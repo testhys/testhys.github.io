@@ -4,11 +4,24 @@
   
   
   <entry>
+    <title>test</title>
+    <link href="/2021/12/02/test/"/>
+    <url>/2021/12/02/test/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>这是一个例子呢</title>
     <link href="/2021/12/02/coontinue/"/>
     <url>/2021/12/02/coontinue/</url>
     
-    <content type="html"><![CDATA[<p>这是一个例子呢</p>]]></content>
+    <content type="html"><![CDATA[<p>这是一个例子呢<br>懂不懂例子的含金量！</p>]]></content>
     
     
     
